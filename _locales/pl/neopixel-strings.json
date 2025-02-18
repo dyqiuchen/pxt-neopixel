@@ -12,7 +12,7 @@
     "NeoPixelMode.RGB|block": "RGB (format GRB)",
     "NeoPixelMode.RGBW|block": "RGB+W",
     "NeoPixelMode.RGB_RGB|block": "RGB (format RGB)",
-    "neopixel|block": "RGB (format RGB)",
+    "neopixel|block": "NeoPixel",
     "neopixel.Strip.showColor|block": "%strip|pokaż kolor %rgb=neopixel_colors",
     "neopixel.Strip.showRainbow|block": "%strip|pokaż tęczę od %startHue|do %endHue",
     "neopixel.Strip.showBarGraph|block": "%strip|pokaż wykres słupkowy wartości %value|do %high",
